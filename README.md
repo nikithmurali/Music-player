@@ -1,6 +1,6 @@
 # Music Player
 
-A simple, responsive music player built with AngularJS, HTML, CSS, and JavaScript. This project allows users to play, pause, skip, shuffle, and repeat songs from a predefined playlist. 
+A simple, responsive music player built with AngularJS, HTML, CSS, and JavaScript. This project allows users to play, pause, skip, shuffle, and repeat songs from a predefined playlist(feel free to add your own music in the array). 
 
 ## Table of Contents
 
