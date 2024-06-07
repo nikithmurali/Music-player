@@ -79,3 +79,11 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- Email: nikithmurali007@gmail.com
+- GitHub: [@nikithmurali](https://github.com/nikithmurali)
+
+
